@@ -1,0 +1,7 @@
+$ npm install -g eslint
+You should then setup a configuration file:
+
+$ eslint --init
+After that, you can run ESLint on any file or directory like this:
+
+$ eslint yourfile.js

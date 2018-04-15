@@ -1,0 +1,5 @@
+npm install -g tslint typescript
+
+TSLint is configured via a file named tslint.json. 
+
+tslint [options] file ...

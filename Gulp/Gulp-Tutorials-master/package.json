@@ -1,0 +1,29 @@
+{
+  "name": "gulp-tutorials",
+  "version": "1.0.0",
+  "description": "gulp tutorials",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ac13793/Gulp-Tutorials.git"
+  },
+  "keywords": [
+    "gulp-tutirials"
+  ],
+  "author": "Amogh Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ac13793/Gulp-Tutorials/issues"
+  },
+  "homepage": "https://github.com/ac13793/Gulp-Tutorials#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-cssnano": "^2.1.3",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-uglify": "^2.0.0",
+    "gulp-useref": "^3.1.2"
+  }
+}
